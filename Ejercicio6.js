@@ -29,10 +29,3 @@ console.log('\nEl deportista finaliza su entrenamiento');
 Deportista.entrenarHoras(3);
 console.log("La energía actual es: " + Deportista.Energia);
 console.log("La Experiencia actual es: " + Deportista.Experiencia);
-
-//Deportista.entrenarHoras(3);
-//console.log(`: ${Deportista.Energia}`);
-//console.log(`: ${Deportista.Experiencia}`);
- // Se entrena durante 5 horas
-
-
